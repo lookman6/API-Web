@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\bin\Debug\net6.0\Member.Data1.deps.json
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\bin\Debug\net6.0\Member.Data1.dll
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\bin\Debug\net6.0\Member.Data1.pdb
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\obj\Debug\net6.0\Member.Data1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\obj\Debug\net6.0\Member.Data1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\obj\Debug\net6.0\Member.Data1.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\obj\Debug\net6.0\Member.Data1.AssemblyInfo.cs
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\obj\Debug\net6.0\Member.Data1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\obj\Debug\net6.0\Member.Data1.dll
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\obj\Debug\net6.0\refint\Member.Data1.dll
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\obj\Debug\net6.0\Member.Data1.pdb
+C:\Users\dell\source\repos\MemberApi1\Member.Data1\obj\Debug\net6.0\ref\Member.Data1.dll
